@@ -1,5 +1,5 @@
 {
-// Problem 1 - Sum the numbers of an array
+// Problem 1
 
 const sumArray = (array: number[]): number => {
     let sum: number = 0;

@@ -1,5 +1,5 @@
 {
-// Problem 4 - Here I was going to write a function that takes in a shape object and returns the area of the shape
+// Problem 4
 
 
 interface Circle {

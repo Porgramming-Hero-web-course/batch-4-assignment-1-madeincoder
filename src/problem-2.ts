@@ -1,5 +1,5 @@
 {
-// Problem 2 - remove duplicates from an array and return it as a new array
+// Problem 2
 
 const removeDuplicates = (array: number[]): number[] => {
     const newArray: number[] = array.filter((value, index) => array.indexOf(value) === index);
